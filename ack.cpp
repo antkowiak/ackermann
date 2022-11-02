@@ -1,5 +1,5 @@
 //
-// Written by Ryan Antkowiak (antkowiak@gmail.com)
+// Written by Ryan Antkowiak
 // 03 July 2014
 //
 // Compile with: g++ ack.cpp -o ack
